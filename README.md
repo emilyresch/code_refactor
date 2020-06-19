@@ -1,4 +1,4 @@
-# resch_homework_1
+# Code Refactor by emilyresch
 Assignment 1.
 In this Code Refactoring assignment, I aimed to clean up the code given to me by:
 
